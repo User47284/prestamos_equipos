@@ -12,9 +12,9 @@
         <h1>Saca Tus Equipos En Prestamos. </h1>
         <nav>
             <ul>
-                <li><a href="index.php">Inicio</a></li>
-                <li><a href="">Tabla de Registros</a></li>
-                <li><a href="crear.php">Registro de </a></li>
+                <li><a href="">Inicio</a></li>
+                <li><a href="prestamostabla.php">Prestamos</a></li>
+                <li><a href="">Registro</a></li>
                 <li><a href="">Intereses</a></li>
                 <li><a href="">Contacto</a></li>
             </ul>
@@ -28,7 +28,7 @@
 
         <section>
             <h2>Imagen destacada</h2>
-            <img src="img/imagen1.jpg" alt="img/inicio1.jpg" width="400">
+            <img src="img/inicio1.jpg" alt="" width=400px>
         </section>
     </main>
     <nav>
