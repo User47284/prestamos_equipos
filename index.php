@@ -13,7 +13,7 @@
         <nav>
             <ul>
                 <li><a href="">Inicio</a></li>
-                <li><a href="">Contenido</a></li>
+                <li><a href="prestamostabla.php">Prestamos</a></li>
                 <li><a href="">Registro</a></li>
                 <li><a href="">Intereses</a></li>
                 <li><a href="">Contacto</a></li>
@@ -28,7 +28,7 @@
 
         <section>
             <h2>Imagen destacada</h2>
-            <img src="img/imagen1.jpg" alt="img/inicio1.jpg" width="400">
+            <img src="img/inicio1.jpg" alt="" width=400px>
         </section>
     </main>
     <nav>
