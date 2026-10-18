@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Prestamos Equipos</title>
+    <link rel="stylesheet" href="style/style.css">
 </head>
 <body>
    
@@ -27,12 +28,23 @@
 
         <section>
             <h2>Imagen destacada</h2>
-            <img src="img/fotos.jpg" alt="Imagen de ejemplo" width="400">
+            <img src="img/imagen1.jpg" alt="img/inicio1.jpg" width="400">
         </section>
     </main>
-
+    <nav>
+    <div>
+      <a>Paquetes de Equipos </a>
+      <div>
+        <ul>
+          <li><a>Gama Baja</a></li>
+          <li><a>Gama Media</a></li>
+          <li><a>Gama Alta</a></li>        
+        </ul>
+      </div>
+    </div>
+    </nav>
     <footer>
-        <p>&copy; 2026 Mi Sitio Web - Todos los derechos reservados</p>
+        <p>&copy; 2026 Prestamos De Equipos - Todos los derechos reservados</p>
     </footer>
 </body>
 </html>
