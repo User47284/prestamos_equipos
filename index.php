@@ -12,11 +12,11 @@
         <h1>Saca Tus Equipos En Prestamos. </h1>
         <nav>
             <ul>
-                <li><a href="">Inicio</a></li>
+                <li><a href="index.php">Inicio</a></li>
                 <li><a href="prestamostabla.php">Prestamos</a></li>
                 <li><a href="">Registro</a></li>
                 <li><a href="">Intereses</a></li>
-                <li><a href="">Contacto</a></li>
+                <li><a href="contacto.php">Contacto</a></li>
             </ul>
         </nav>
     </header>
