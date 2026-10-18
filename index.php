@@ -12,9 +12,9 @@
         <h1>Saca Tus Equipos En Prestamos. </h1>
         <nav>
             <ul>
-                <li><a href="">Inicio</a></li>
-                <li><a href="">Contenido</a></li>
-                <li><a href="">Registro</a></li>
+                <li><a href="index.php">Inicio</a></li>
+                <li><a href="">Tabla de Registros</a></li>
+                <li><a href="crear.php">Registro de </a></li>
                 <li><a href="">Intereses</a></li>
                 <li><a href="">Contacto</a></li>
             </ul>
